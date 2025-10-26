@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Redcomm Indonesia as Developer Supervisor.<br>🔍 Now, I am actively looking for new opportunities abroad (outside Indonesia).<br>🌱 I’m currently learning Python & Odoo
+🔭 I’m currently working on Redcomm Indonesia as Tech Lead.<br>🔍 Now, I am actively looking for new opportunities abroad (outside Indonesia).<br>🌱 I’m currently learning Python & Odoo
 
 
 ## 🌐 Socials:
